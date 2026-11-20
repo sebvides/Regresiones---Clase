@@ -1,0 +1,6 @@
+{
+  "name": "Restaurante Mao — Análisis de Regresión",
+  "description": "Plataforma analítica de regresiones lineales, estadística descriptiva, matriz de relaciones, Durbin-Watson y validación 80/20 sobre las ventas de Restaurante Mao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
